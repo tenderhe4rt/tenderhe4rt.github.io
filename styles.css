@@ -9,7 +9,7 @@ p {
   color: palevioletred;
   font-family: "Helvetica Neue", "Helvetica", sans-serif;
 }
-.button {
+button {
   background-color: pink;
   color: palevioletred;
   border: 5px solid palevioletred
